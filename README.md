@@ -13,3 +13,7 @@ LinearSearch(array, key)
     
     
       return its index
+      
+      
+      ![image](https://user-images.githubusercontent.com/125429580/234243521-e011dfa7-46a4-49eb-852b-fe624e8c2de4.png)
+
