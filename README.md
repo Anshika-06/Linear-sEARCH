@@ -15,5 +15,5 @@ LinearSearch(array, key)
       return its index
       
       
-      ![image](https://user-images.githubusercontent.com/125429580/234243521-e011dfa7-46a4-49eb-852b-fe624e8c2de4.png)
+     https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.programiz.com%2Fdsa%2Flinear-search&psig=AOvVaw3trNP92i_dAJprqXhKhawz&ust=1682503016082000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiO36bjxP4CFQAAAAAdAAAAABAE
 
