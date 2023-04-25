@@ -13,4 +13,6 @@ for each item in the array
     
  return its index 
       
+      
     
+![LinearSearch_Valero](https://user-images.githubusercontent.com/125429580/234245255-0743da35-51d3-4410-80c9-4ffcd4364997.jpg)
