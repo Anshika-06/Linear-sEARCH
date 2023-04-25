@@ -15,4 +15,5 @@ for each item in the array
       
       
     
-![LinearSearch_Valero](https://user-images.githubusercontent.com/125429580/234245255-0743da35-51d3-4410-80c9-4ffcd4364997.jpg)
+
+![linearsearchitr](https://user-images.githubusercontent.com/125429580/234245772-1e1c2b75-f14b-4f2f-abfd-f833cb9c51ef.gif)
