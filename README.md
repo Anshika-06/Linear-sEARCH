@@ -6,6 +6,10 @@ Linear search can be used irrespective of whether the array is sorted or not. It
 It is a well suited algorithm for small datasets.
 
 LinearSearch(array, key)
+
   for each item in the array
+  
     if item == value
+    
+    
       return its index
