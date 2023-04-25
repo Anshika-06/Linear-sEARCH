@@ -7,13 +7,10 @@ It is a well suited algorithm for small datasets.
 
 LinearSearch(array, key)
 
-  for each item in the array
+for each item in the array
   
-    if item == value
+ if item == value
     
+ return its index 
+      
     
-      return its index
-      
-      
-     https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.programiz.com%2Fdsa%2Flinear-search&psig=AOvVaw3trNP92i_dAJprqXhKhawz&ust=1682503016082000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiO36bjxP4CFQAAAAAdAAAAABAE
-
